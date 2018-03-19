@@ -1,0 +1,20 @@
+4. Sistema de monitoreo de plagas.
+*** Julián García
+*** Elena Batista
+
+10. Sistema de mantenimiento a equipos.
+*** Gloria Pérez
+*** Tomás Martínez
+
+5. Sistema de gestión de una sala de fiestas.
+*** Miguel Sosa
+*** Juan Estévez
+
+1. Sistema de reservas de boletos de cine.
+*** Pedro Betancourt
+*** María Rodríguez
+
+9. Sistema de excursiones a reservas naturales.
+*** Estela Gutiérrez
+*** Ana Bravo
+
