@@ -1,0 +1,10 @@
+1 - Sistema de reservas de boletos de cine.
+2 - Sistema de gestión de la fábrica de croquetas.
+3 - Sistema de lanzamiento de cohetes.
+4 - Sistema de monitoreo de plagas.
+5 - Sistema de gestión de una sala de fiestas.
+6 - Sistema para el alquiler de autos clásicos.
+7 - Sistema de comercialización de anuncios de publicidad.
+8 - Sistema de gestión de un restaurante.
+9 - Sistema de excursiones a reservas naturales. 
+10 - Sistema de mantenimiento a equipos. 
